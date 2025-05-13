@@ -12,4 +12,4 @@ All the related code, where preprocessing functions defined such as AgeImputer, 
 
 # Predictions
 
-Some of the predictions that are obtained are also saved in predictions folder. 
+Some of the predictions that are obtained are also saved in Predictions folder. 
